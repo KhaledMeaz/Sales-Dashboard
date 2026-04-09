@@ -1,4 +1,4 @@
-# My-First-Dashboard_1
+# Sales-Dashboard
 This is a Data Analysis and Visualization project based on the **store Sales Dataset**.
 
 ## Project Overview
